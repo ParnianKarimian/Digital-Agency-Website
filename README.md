@@ -1,5 +1,7 @@
-**Digital-Agency**
-HTML CSS
+# Digital Agency Website
+A modern, **Digital Agency Website** built using **HTML** and **CSS**. This project showcases a clean, user-friendly design suitable for promoting digital marketing services, creative agencies, or startups.
+- Modern UI with an emphasis on accessibility and usability.
+- Optimized for fast loading and cross-browser compatibility.
 [Demo](https://parniankarimian.github.io/Second-Project/)
 ![bandicam 2024-11-23 00-14-26-867](https://github.com/user-attachments/assets/f3682510-5dea-4488-a1d2-0253751cca51)
 ![bandicam 2024-11-23 00-14-20-802](https://github.com/user-attachments/assets/c4c06b6c-de45-4577-a008-e7172129f9ff)
